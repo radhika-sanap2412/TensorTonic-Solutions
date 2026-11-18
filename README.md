@@ -29,6 +29,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Tensor Factory | Create PyTorch tensors with zeros, ones, or a constant fill value using the requested shape and dtype. | https://www.tensortonic.com/problems/pytorch-tensor-creation |
 | Tensor Shape Manipulation | Reshape tensors using three common PyTorch operations: flatten to collapse into 1D, squeeze to remove size-1 dimensions. | https://www.tensortonic.com/problems/pytorch-tensor-reshape |
 | Basic SELECT | Write a SQL SELECT query that aliases product names and calculates inventory value from unit price and stock quantity. | https://www.tensortonic.com/problems/sql-basic-select |
+| COUNT, SUM, AVG | Aggregate sales by category with SQL COUNT, SUM, and AVG while handling NULL discounts and deterministic ordering. | https://www.tensortonic.com/problems/sql-count-sum-avg |
 | Cross Join | Generate every segment and metric combination with a SQL CROSS JOIN for a complete reporting grid. | https://www.tensortonic.com/problems/sql-cross-join |
 | DISTINCT Values | Return each customer and their distinct product count with SQL aggregation and deterministic sorting. | https://www.tensortonic.com/problems/sql-distinct-values |
 | GROUP BY | Group orders by customer in SQL to calculate total order count and spending, ordered by highest spend. | https://www.tensortonic.com/problems/sql-group-by |
